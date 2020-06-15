@@ -44,4 +44,5 @@ Bayesian Logistic Regression model was built to predict whether a patient is dia
 
 # Model Evaluation 
 ![alt text](/img/confusion-matrix.png)
+
 Confusion matrix is calculated from real outcome and predicted outcome. Accuracy, precision, sensitivity, and specificity were determined. The Bayesian logistic model can predict the outcome (Y) with 69% accuracy with 61% precision. The specificity of 82% suggests that the model is capable of predicting the patients that do not have diabetes than predicting patients with diabetics. Hence, model sensitivity needs to improved.
