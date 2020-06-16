@@ -35,7 +35,7 @@ Missing values can be found in glu, bp, skin, insulin, and bmi, columns as "0". 
 
 Data set was partitioned randomly considering 87% data in train set. Any missing row in test set was discared. Missing data in train set (glu, bp, skin, insulin, bmi variables) was considered for imputation with following the following model.
 
-![alt text](/img/model-imputation.png)
+![alt text](/img/model.png)
 
 # Classification model with WinBUGS
 Bayesian Logistic Regression model was built to predict whether a patient is diabetic or not.
